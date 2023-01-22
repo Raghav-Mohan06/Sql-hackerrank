@@ -1,0 +1,1 @@
+select sum(POPULATION) from city where district like 'California';
